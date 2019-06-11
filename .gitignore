@@ -172,3 +172,4 @@ toeic-core-dao-impl/target/maven-status/maven-compiler-plugin/compile/default-co
 toeic-core-dao-impl/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 toeic-core-dao-impl/target/toeic-core-dao-impl-1.0-SNAPSHOT.jar
 toeic-core-dao-impl/toeic-core-dao-impl.iml
+.idea/dataSources.local.xml

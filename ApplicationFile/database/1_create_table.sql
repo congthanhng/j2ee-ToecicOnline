@@ -1,4 +1,4 @@
-create table userEntity (
+create table user(
 	userid bigint not null primary key auto_increment,
     name varchar(255) null,
     password varchar(255) null,
@@ -6,7 +6,7 @@ create table userEntity (
     createddate timestamp null
 );
 
-create table roleEntity (
+create table role (
 	roleid bigint not null primary key,
     name varchar(100) null
 );
